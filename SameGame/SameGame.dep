@@ -1,0 +1,39 @@
+# Microsoft Developer Studio Generated Dependency File, included by SameGame.mak
+
+.\MainFrm.cpp : \
+	".\MainFrm.h"\
+	".\SameGame.h"\
+	".\StdAfx.h"\
+	
+
+.\SameGame.cpp : \
+	".\MainFrm.h"\
+	".\SameGame.h"\
+	".\SameGameDoc.h"\
+	".\SameGameView.h"\
+	".\StdAfx.h"\
+	
+
+.\SameGame.rc : \
+	".\res\SameGame.ico"\
+	".\res\SameGame.rc2"\
+	".\res\SameGameDoc.ico"\
+	".\res\Toolbar.bmp"\
+	
+
+.\SameGameDoc.cpp : \
+	".\SameGame.h"\
+	".\SameGameDoc.h"\
+	".\StdAfx.h"\
+	
+
+.\SameGameView.cpp : \
+	".\SameGame.h"\
+	".\SameGameDoc.h"\
+	".\SameGameView.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
